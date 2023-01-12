@@ -41,6 +41,7 @@ Some of the preprocessing steps are:
 >> Google Colab : https://colab.research.google.com/drive/1Y3mG8sqZEbdTcG9SFmGOdgqi30xLdsgV
 
 #Summary
+[![Model-Comparison.png](https://i.postimg.cc/6psGxxCk/Model-Comparison.png)](https://postimg.cc/Whn40KW8)
 
 Model Evaluation: Accuracy
 - Accuracy Score: Logistic Regression, Stacking > XGBoost > Random Forest >Naive Bayes > Decision Tree
