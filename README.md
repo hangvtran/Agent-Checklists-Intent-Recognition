@@ -49,7 +49,7 @@ Some of the preprocessing steps are:
 - Logistic regression and Stacking model performs the best with accuracy score 0.88
 
 ### Model Evaluation: Time Efficiency
-[Evaluation-Time-Efficiency.png](https://postimg.cc/tnRTsG0L)
+[![Evaluation-Time-Efficiency.png](https://i.postimg.cc/PJY8FdSr/Evaluation-Time-Efficiency.png)](https://postimg.cc/tnRTsG0L)
 - Run time: Naive Bayes < Random Forest < Decision Tree < Logistic Regression < XGBoost < Stacking
 - Stacking model is significantly inefficient in terms of run time ( total:2940 sec, 0.33 sec/convo) 
 
