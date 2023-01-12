@@ -72,7 +72,7 @@ Some of the preprocessing steps are:
 - Requires more runtime because of their complicated algorithm
 - Random Forest model can be the second best model 
     - Accuracy: 0.86
-    -Time efficiency: total runtime:  3 sec, 0.0003/conversation
+    - Time efficiency: total runtime: 3 sec, 0.0003/conversation
 - Stacking shows stable score for all over Precision, Recall, F-1 score, accuracy but very time consuming 
 
 
