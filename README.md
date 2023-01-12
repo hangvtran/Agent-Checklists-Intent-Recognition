@@ -10,9 +10,9 @@ Our objective is to predict the appropriate workflow an agent must go through to
 ## Dataset
 - Action-Based Conversations Dataset (ABCD): Over 10K human-to-human dialogues with 96 distinct workflows
 - A list of conversations, where each conversation is a dict containing:
-    convo_id: a unique conversation identifier
-    scenario: details about the customer setup along with the underlying flow
-    original: the raw conversation of speaker and utterances as a list of tuples
+    - convo_id: a unique conversation identifier
+    - scenario: details about the customer setup along with the underlying flow
+    -  original: the raw conversation of speaker and utterances as a list of tuples
 
 ## Steps
 To prepare the text data for the model building we perform text preprocessing
@@ -62,18 +62,18 @@ Some of the preprocessing steps are:
 ## Conclusion
 
 ### Logistic Regression
-> Performs the best in terms of three category of evaluation
+- Performs the best in terms of three category of evaluation
     - Accuracy:  0.88
     - Time efficiency:  total runtime: 19 sec, 0.02/conversation
     - Not overfitted
 
 ### Models with ensemble method
-> Perform relatively better than basic models with regards to accuracy score
-> Requires more runtime because of their complicated algorithm
-> Random Forest model can be the second best model 
+- Perform relatively better than basic models with regards to accuracy score
+- Requires more runtime because of their complicated algorithm
+- Random Forest model can be the second best model 
     - Accuracy: 0.86
     -Time efficiency: total runtime:  3 sec, 0.0003/conversation
-> Stacking shows stable score for all over Precision, Recall, F-1 score, accuracy but very time consuming 
+- Stacking shows stable score for all over Precision, Recall, F-1 score, accuracy but very time consuming 
 
 
 
