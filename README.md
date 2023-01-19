@@ -39,8 +39,8 @@ Some of the preprocessing steps are:
 
 ## Notebook — Complete step by step execution
 >> Google Colab : https://colab.research.google.com/drive/1Y3mG8sqZEbdTcG9SFmGOdgqi30xLdsgV
-### Presentation on Google Slides: 
-https://drive.google.com/drive/u/0/my-drive
+### Team Presentation link
+>> https://drive.google.com/file/d/1JV0CugViaO97N--q6ihLEPnuHnoU2Dhm/view?usp=sharing
 ## Summary
 [![Model-Comparison.png](https://i.postimg.cc/6psGxxCk/Model-Comparison.png)](https://postimg.cc/Whn40KW8)
 
