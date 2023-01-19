@@ -60,7 +60,7 @@ Some of the preprocessing steps are:
 - Random Forest , XGBoost, Stacking possibly overfitted
 
 ### Other Models:
-- Convolutional Neural Network (CNN) model: We didn't have enough time to fully understand and evaluate the CNN model. However, we still have the accuracy scores 0.89 for 10 epoch sizes. If we have more time, we will evaluate CNN model and compare it with other models mentioned above.
+- Convolutional Neural Network (CNN) model: You can find `Hang_CNN_Model.ipynb` in `Models` folder. We didn't have enough time to fully understand and evaluate the CNN model. However, we still have the accuracy scores 0.89 for 10 epoch sizes. If we have more time, we will evaluate CNN model and compare it with other models mentioned above.
 
 ## Conclusion
 
