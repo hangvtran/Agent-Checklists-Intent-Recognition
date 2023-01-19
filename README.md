@@ -40,7 +40,7 @@ Some of the preprocessing steps are:
 ## Notebook — Complete step by step execution
 >> Google Colab : https://colab.research.google.com/drive/1Y3mG8sqZEbdTcG9SFmGOdgqi30xLdsgV
 ### Presentation on Google Slides: 
-https://docs.google.com/presentation/d/1G_K7Op6gUdyRZdSlEeL5OlGaPNRG5pchdlzFdcMbWX4/edit#slide=id.g16a6a87d4ab_0_0
+https://drive.google.com/drive/u/0/my-drive
 ## Summary
 [![Model-Comparison.png](https://i.postimg.cc/6psGxxCk/Model-Comparison.png)](https://postimg.cc/Whn40KW8)
 
