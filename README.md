@@ -39,7 +39,7 @@ Some of the preprocessing steps are:
 
 ## Notebook — Complete step by step execution
 >> Google Colab : https://colab.research.google.com/drive/1Y3mG8sqZEbdTcG9SFmGOdgqi30xLdsgV
-### Team Presentation link
+## Team Presentation link
 >> https://drive.google.com/file/d/1JV0CugViaO97N--q6ihLEPnuHnoU2Dhm/view?usp=sharing
 ## Summary
 [![Model-Comparison.png](https://i.postimg.cc/6psGxxCk/Model-Comparison.png)](https://postimg.cc/Whn40KW8)
@@ -59,6 +59,8 @@ Some of the preprocessing steps are:
 - Logistic regression works good for both training data and test data.
 - Random Forest , XGBoost, Stacking possibly overfitted
 
+### Other Models:
+- Convolutional Neural Network (CNN) model: We didn't have enough time to fully understand and evaluate the CNN model. However, we still have the accuracy scores 0.89 for 10 epoch sizes. If we have more time, we will evaluate CNN model and compare it with other models mentioned above.
 
 ## Conclusion
 
